@@ -1,0 +1,23 @@
+# .gitignore
+node_modules/
+*.log
+.env
+__pycache__/
+*.pyc
+android/.gradle/
+android/app/build/
+android/build
+android/.kotlin/
+ios/Pods/
+ios/
+.idea/
+.vscode/
+.DS_Store
+*.iml
+*.swp
+*.swo
+*.db
+*.sqlite3
+coverage/
+dist/
+build/
